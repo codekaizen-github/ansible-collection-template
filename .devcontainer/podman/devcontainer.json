@@ -1,5 +1,5 @@
 {
-  "name": "ansible-dev-container-podman",
+  "name": "my-organization-my-collection-dev-container-podman",
   "image": "ghcr.io/codekaizen-github/ansible-dev-tools-image:latest",
   "workspaceFolder": "/workdir/ansible_collections/my_organization/my_collection",
   "workspaceMount": "source=${localWorkspaceFolder},target=/workdir/ansible_collections/my_organization/my_collection,type=bind,consistency=cached",

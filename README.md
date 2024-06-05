@@ -13,6 +13,8 @@ This repository contains the `my_organization.my_collection` Ansible Collection.
   - [ ] `my_collection`
   - [ ] `My_Organization`
   - [ ] `My_Collection`
+  - [ ] `my-organization`
+  - [ ] `my-collection`
 - [ ] Remove these instructions from the README.
 
 <!--start requires_ansible-->
